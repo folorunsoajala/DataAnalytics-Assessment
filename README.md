@@ -19,6 +19,23 @@ Using CTEs made the query more modular, improved performance by reducing join mu
 
 
 
+# Transaction Frequency Analysis
+
+## Objective 
+Segment customers based on how often they perform transactions per month.
+
+## Approach
+- I first grouped transactions by owner_id and month using DATE_FORMAT() to get monthly transaction counts.
+- Then, I averaged those counts per customer to get their overall monthly transaction frequency.
+- Using a CASE expression, I categorized customers into High, Medium, and Low frequency bands.
+- Finally, I aggregated the results to report total customer count and average transactions per frequency group.
+![Q2_Result](https://github.com/folorunsoajala/DataAnalytics-Assessment/blob/main/Q2_Result.png)
+
+
+
+
+
+
 
 
 
