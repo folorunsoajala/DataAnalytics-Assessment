@@ -16,6 +16,8 @@ Using CTEs made the query more modular, improved performance by reducing join mu
 
 ## Result 
 !.[].(https://github.com/folorunsoajala/DataAnalytics-Assessment/blob/main/Q1_Result.png)
+![Q1 Result](https://github.com/folorunsoajala/DataAnalytics-Assessment/blob/main/Q1_Result.png)
+
 
 
 
