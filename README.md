@@ -15,7 +15,7 @@ Identify users who have at least one funded savings plan and one funded investme
 Using CTEs made the query more modular, improved performance by reducing join multiplicity, and helped avoid timeout issues in MySQL.
 
 ## Result 
-!.[.].(https://github.com/folorunsoajala/DataAnalytics-Assessment/blob/main/Q1_Result.png)
+!.[].(https://github.com/folorunsoajala/DataAnalytics-Assessment/blob/main/Q1_Result.png)
 
 
 
